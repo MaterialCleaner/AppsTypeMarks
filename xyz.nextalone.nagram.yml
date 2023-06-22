@@ -1,0 +1,6 @@
+type: Download
+marks:
+  - versionCode: 1
+    directories:
+      - /storage/emulated/0/Android/data/xyz.nextalone.nagram/files
+      - /storage/emulated/0/Download
