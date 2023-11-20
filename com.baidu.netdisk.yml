@@ -3,3 +3,6 @@ marks:
   - versionCode: 1
     directories:
       - /storage/emulated/0/BaiduNetdisk
+  - versionCode: 2122
+    directories:
+      - /storage/emulated/0/Download/BaiduNetdisk
