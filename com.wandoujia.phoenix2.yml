@@ -1,0 +1,7 @@
+type: Download
+marks:
+  - versionCode: 1
+    directories:
+      - /storage/emulated/0/wandoujia/downloader/apk
+      - /storage/emulated/0/wandoujia/downloader/silent/apk
+      - /storage/emulated/0/Download
