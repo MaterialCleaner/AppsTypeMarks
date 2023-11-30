@@ -3,3 +3,7 @@ marks:
   - versionCode: 1
     directories:
       - /storage/emulated/0/ThunderDownload
+  - versionCode: 13046
+    directories:
+      - /storage/emulated/0/Android/data/com.xunlei.downloadprovider/files/ThunderDownload
+      - /data/user/0/com.xunlei.downloadprovider/files/ThunderDownload

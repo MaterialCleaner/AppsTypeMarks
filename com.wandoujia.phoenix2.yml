@@ -5,3 +5,6 @@ marks:
       - /storage/emulated/0/wandoujia/downloader/apk
       - /storage/emulated/0/wandoujia/downloader/silent/apk
       - /storage/emulated/0/Download
+  - versionCode: 803010000
+    directories:
+      - /storage/emulated/0/Android/data/com.wandoujia.phoenix2/files/wandoujia/downloader/apk
