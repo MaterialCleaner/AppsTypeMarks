@@ -3,3 +3,6 @@ marks:
   - versionCode: 1
     directories:
       - /storage/emulated/0/UCDownloads
+  - versionCode: 11272
+    directories:
+      - /storage/emulated/0/Download/UCDownloads
