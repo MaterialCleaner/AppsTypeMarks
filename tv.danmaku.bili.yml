@@ -1,5 +1,4 @@
-type: Download
+type: Common
 marks:
   - versionCode: 1
     directories:
-      - /storage/emulated/0/Download/哔哩哔哩

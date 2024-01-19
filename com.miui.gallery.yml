@@ -1,5 +1,6 @@
-type: Download
+type: AllFilesAccess
 marks:
   - versionCode: 1
     directories:
-      - /storage/emulated/0/Download
+      - /storage/emulated/0/DCIM/.deleteRecord
+      - /storage/emulated/0/DCIM/.globalTrash
