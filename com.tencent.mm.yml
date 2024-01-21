@@ -4,5 +4,5 @@ marks:
     directories:
       - /storage/emulated/0/Android/data/com.tencent.mm/MicroMsg/Download
   - versionCode: 2306
-    directories:
-      - /data/user/0/com.tencent.mm/MicroMsg
+    matchers:
+      - glob:/data/user/0/com.tencent.mm/MicroMsg/*[a-z0-9]*/attachment

@@ -1,0 +1,5 @@
+type: Download
+marks:
+  - versionCode: 1
+    matchers:
+      - glob:/storage/emulated/0/Download/QQBrowser/*[0-9]*/安装包
