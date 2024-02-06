@@ -1,0 +1,6 @@
+type: Download
+marks:
+  - versionCode: 1
+    directories:
+      - /storage/emulated/0/Download/Telegram
+      - /storage/emulated/0/Android/data/tw.nekomimi.nekogram/files/Telegram/Telegram Files
